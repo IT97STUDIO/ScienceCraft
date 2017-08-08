@@ -1,5 +1,4 @@
 # ScienceCraft
-**NO LONGER MAINTAINED**
 
 ScienceCraft是一个开源3D沙盒游戏，采用LGPLv3许可证发布并受其保护。
 
